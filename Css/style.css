@@ -1,0 +1,19 @@
+table {
+    border-spacing: 0;
+    background-color: white;
+}
+tr th {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+p {
+    font-size: 30px;
+}
